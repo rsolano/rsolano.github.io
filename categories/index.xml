@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ricardo Solano</title>
-    <link>http://ricardosolano.me/categories/</link>
+    <link>https://rsolano.github.io/categories/</link>
     <description>Recent content in Categories on Ricardo Solano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://ricardosolano.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rsolano.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ricardosolano.me/about/</loc>
+    <loc>https://rsolano.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://ricardosolano.me/categories/</loc>
+    <loc>https://rsolano.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ricardosolano.me/</loc>
+    <loc>https://rsolano.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ricardosolano.me/tags/</loc>
+    <loc>https://rsolano.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
