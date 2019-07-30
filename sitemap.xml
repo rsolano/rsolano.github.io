@@ -3,16 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rsolano.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rsolano.github.io/categories/</loc>
+    <loc>https://rsolano.github.io/projects/</loc>
+    <lastmod>2019-07-27T15:15:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rsolano.github.io/</loc>
+    <lastmod>2019-07-27T15:15:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rsolano.github.io/projects/pyohio-talk/</loc>
+    <lastmod>2019-07-27T15:15:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsolano.github.io/projects/wip/</loc>
+    <lastmod>2019-07-20T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsolano.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rsolano.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
